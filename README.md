@@ -3,4 +3,4 @@
  
  
  
- - [ ] Web3-Wiki
+ - [ ] Web3-Wiki   以中文为主的Web3知识百科平台
